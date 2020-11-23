@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\dell-pc\documents\visual studio 2015\projects\project1\project1\源.cpp(54): warning C4302: “类型转换”: 从“LPSTR”到“WORD”截断
+c:\users\dell-pc\documents\visual studio 2015\projects\project1\project1\源.cpp(59): warning C4302: “类型转换”: 从“LPSTR”到“WORD”截断
+  Project1.vcxproj -> c:\users\dell-pc\documents\visual studio 2015\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> c:\users\dell-pc\documents\visual studio 2015\Projects\Project1\Debug\Project1.pdb (Partial PDB)

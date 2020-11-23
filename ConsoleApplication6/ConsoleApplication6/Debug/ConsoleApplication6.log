@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\dell-pc\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\源.cpp(21): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+c:\users\dell-pc\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\源.cpp(29): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+源.obj : error LNK2019: 无法解析的外部符号 "long __stdcall Wndproc(struct HWND__ *,unsigned int,unsigned int,long)" (?Wndproc@@YGJPAUHWND__@@IIJ@Z)，该符号在函数 _WinMain@16 中被引用
+c:\users\dell-pc\documents\visual studio 2015\Projects\ConsoleApplication6\Debug\ConsoleApplication6.exe : fatal error LNK1120: 1 个无法解析的外部命令

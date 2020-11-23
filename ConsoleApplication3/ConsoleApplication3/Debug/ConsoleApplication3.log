@@ -1,0 +1,9 @@
+﻿  windows1.cpp
+c:\users\dell-pc\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\windows1.cpp(21): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+c:\users\dell-pc\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\windows1.cpp(28): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  csdnwindows.cpp
+c:\users\dell-pc\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\csdnwindows.cpp(54): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+c:\users\dell-pc\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\csdnwindows.cpp(59): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+c:\users\dell-pc\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\csdnwindows.cpp(62): fatal error C1075: 左侧的 大括号“{” 与文件结尾不匹配
+  正在生成代码...
+c:\users\dell-pc\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\windows1.cpp(79): warning C4715: “WndProc”: 不是所有的控件路径都返回值

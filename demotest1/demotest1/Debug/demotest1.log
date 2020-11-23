@@ -1,0 +1,6 @@
+﻿  windows.cpp
+c:\users\dell-pc\documents\visual studio 2015\projects\demotest1\demotest1\windows.cpp(21): warning C4302: “类型转换”: 从“LPSTR”到“WORD”截断
+c:\users\dell-pc\documents\visual studio 2015\projects\demotest1\demotest1\windows.cpp(28): warning C4302: “类型转换”: 从“LPSTR”到“WORD”截断
+c:\users\dell-pc\documents\visual studio 2015\projects\demotest1\demotest1\windows.cpp(79): warning C4715: “WndProc”: 不是所有的控件路径都返回值
+windows.obj : error LNK2019: 无法解析的外部符号 "long __stdcall Wndproc(struct HWND__ *,unsigned int,unsigned int,long)" (?Wndproc@@YGJPAUHWND__@@IIJ@Z)，该符号在函数 _WinMain@16 中被引用
+C:\Users\dell-pc\Documents\Visual Studio 2015\Projects\demotest1\Debug\demotest1.exe : fatal error LNK1120: 1 个无法解析的外部命令
